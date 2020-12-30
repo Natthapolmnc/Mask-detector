@@ -1,0 +1,20 @@
+{
+  "images": [
+    { "file_name": "Face-Mask2.jpg", "height": 316, "width": 474, "id": 1 },
+    { "file_name": "Face-Mask1.jpg", "height": 800, "width": 800, "id": 2 },
+    { "file_name": "Face-Mask3.jpg", "height": 405, "width": 612, "id": 3 },
+    { "file_name": "Face-mask4.jpg", "height": 570, "width": 570, "id": 4 },
+    { "file_name": "Face-Mask5.jpg", "height": 300, "width": 300, "id": 5 },
+    { "file_name": "Face-Mask6.jpg", "height": 680, "width": 1024, "id": 6 },
+    { "file_name": "Face-Mask7.jpg", "height": 576, "width": 1024, "id": 7 }
+  ],
+  "annotations": [
+    [96, 88, 278, 213],
+    [286, 275, 290, 281],
+    [190, 216, 215, 157],
+    [150, 288, 283, 225],
+    [83, 146, 151, 109],
+    [352, 315, 337, 231],
+    [388, 248, 260, 184]
+  ]
+}
